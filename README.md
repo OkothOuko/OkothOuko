@@ -1,4 +1,4 @@
-### Hi 👋, Okoth Ouko
+### Hi 👋, Okoth_Ouko
 
 <!--
 **OkothOuko/OkothOuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
